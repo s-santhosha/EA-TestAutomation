@@ -1,0 +1,26 @@
+# Energy_Australia_API_CODING_TEST 
+
+
+## Test written with reference from Swagger - https://eacp.energyaustralia.com.au/codingtest/api-docs/
+ 
+## The framework is developed with WebdriverIO NextGen Javascript Automation Framework along with mocha/Jasmine
+
+Techstack - Nodejs, Javascript, Supertest, Chai-assertion, html reporting
+
+## How to run the project
+Clone or download this project from Github.
+
+## Download dependencies using npm package manager 
+npm install 
+
+## Links to WebdriverIO - https://webdriver.io/docs/gettingstarted
+
+## Executing the tests
+
+## To run the api test for music festival use either of mocha or jasmine testrunner
+"npx mocha ./test/specs/api-test.js"  (or) "npx jasmine ./test/specs/api-test.js"
+
+
+
+
+
