@@ -1,4 +1,4 @@
-# Energy_Australia_API_CODING_TEST 
+## Energy Australia API Coding Test 
 
 
 ## Test written with reference from Swagger - https://eacp.energyaustralia.com.au/codingtest/api-docs/
